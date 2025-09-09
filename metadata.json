@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Repositories Clone",
+  "description": "A visually faithful clone of a GitHub user's repositories page, built with React, TypeScript, and Tailwind CSS. It showcases a user's profile and a filterable list of their repositories.",
+  "requestFramePermissions": []
+}
